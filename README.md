@@ -23,7 +23,7 @@
 
 </td>
 
-<td width="60%">
+<td width="40%">
 
 ### 🎯 My Interests
 
