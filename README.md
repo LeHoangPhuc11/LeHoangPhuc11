@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### 👨‍💻 Developer Profile
 
@@ -23,7 +23,7 @@
 
 </td>
 
-<td width="50%">
+<td width="40%">
 
 ### 🎯 My Interests
 
@@ -41,10 +41,9 @@
 ---
 
 ## 🛠 Tech Stack & Tools
----
 ### 🎨 Frontend
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -57,7 +56,7 @@
 
 ### 🎨 UI Framework
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
@@ -68,7 +67,7 @@
 
 ### ⚙️ Tools
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
