@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Le Hoang Phuc</h1>
 
-<!--
-**LeHoangPhuc11/LeHoangPhuc11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Frontend Developer | 🚀 Learning Fullstack
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 👤 Name: **Lê Hoàng Phúc**
+- 📍 Location: **Vietnam**
+- 🎓 Student Developer
+- 💻 Focus: **Frontend Development**
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=LeHoangPhuc11&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=LeHoangPhuc11&theme=tokyonight)
+
+---
+
+## 🌐 Connect with me
+
+- 📧 Email: phucle.13122003@gmail.com
