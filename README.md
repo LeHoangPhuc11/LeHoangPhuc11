@@ -23,18 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=LeHoangPhuc11&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=LeHoangPhuc11&theme=tokyonight)
-
----
-
 ## 🌐 Connect with me
 
 - 📧 Email: phucle.13122003@gmail.com
