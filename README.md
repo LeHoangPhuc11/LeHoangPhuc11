@@ -20,6 +20,7 @@
 - 📍 **Location:** Vietnam  
 - 🎓 **Student Developer**  
 - 💻 **Focus:** Frontend Development  
+- 🎯 **Goal:** Become a Professional Frontend Engineer  
 
 </td>
 </tr>
