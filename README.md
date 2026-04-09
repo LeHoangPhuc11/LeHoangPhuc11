@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="100%">
 
 ### 👨‍💻 Developer Profile
 
@@ -20,17 +20,6 @@
 - 📍 **Location:** Vietnam  
 - 🎓 **Student Developer**  
 - 💻 **Focus:** Frontend Development  
-
-</td>
-
-<td width="40%">
-
-### 🎯 My Interests
-
-- ⚽ Football  
-- 🎵 Music  
-- 💻 Programming  
-- 🌱 Continuous Learning  
 
 </td>
 </tr>
@@ -46,7 +35,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
 
@@ -61,4 +50,5 @@
 
 ## 🌐 Connect with me
 
-📧 **Email:** phucle.13122003@gmail.com
+📧 **Email:** phucle.13122003@gmail.com  
+📱 **Phone:** 0898021522
