@@ -58,7 +58,6 @@
 - Dark / Light mode  
 - Multi-language (i18n)
 
----
 
 ### 🔐 Key Nexus System (Frontend)
 
