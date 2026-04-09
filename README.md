@@ -17,9 +17,8 @@
 ### 👨‍💻 Developer Profile
 
 - 👤 **Name:** Lê Hoàng Phúc  
-- 📍 **Location:** Vietnam  
-- 🎓 **Student Developer**  
-- 💻 **Focus:** Frontend Development  
+- 📍 **Location:** Vietnam   
+- 💼 **Role:** Frontend Development  
 - 🎯 **Goal:** Become a Professional Frontend Engineer  
 
 </td>
@@ -46,6 +45,30 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
+---
+
+## 🔥 Featured Projects
+
+### 🧑‍💻 Personal Portfolio
+
+🔗 https://github.com/LeHoangPhuc11/Portfolio
+
+- Built with React + TypeScript  
+- Responsive (Mobile & Desktop)  
+- Dark / Light mode  
+- Multi-language (i18n)
+
+---
+
+### 🔐 Key Nexus System (Frontend)
+
+🔗 https://github.com/nthuwng/key-nexus-fe
+
+- Built with React  
+- Authentication UI  
+- Dashboard interface  
+- API integration  
+- Clean UI & responsive  
 
 ---
 
